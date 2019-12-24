@@ -54,7 +54,7 @@ class PostList extends React.Component {
                     {/* --------- Post List ---------- */}
                     <div className="left-column">
                         <div className="nav">
-                            文章列表
+                            目錄
                         </div>
                         <div className="post-list">
                             {this.state.posts.map((a) => {
